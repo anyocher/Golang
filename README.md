@@ -1,10 +1,9 @@
 # Golang
 # Hello World em Go 🐹
-
 Este é o programa mais básico em **Go (Golang)**: exibir a frase **"Hello, World!"** no terminal.  
 Ele serve como primeiro passo para aprender a linguagem, testar a instalação do Go e entender a estrutura mínima de um programa Go.
 
----
+-------
 
 ## 📂 Explicação do código
 
